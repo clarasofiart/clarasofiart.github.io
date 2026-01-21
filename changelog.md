@@ -1,6 +1,17 @@
 # Space Ahead ✨ Changelog
 
-## v0.11.4 (Latest) - Oct 29, 2025
+## v0.11.5 (Latest) - Jan 21, 2026
+
+This is a quarterly update release intended to keep the dependencies up-to-date, addressing any security issues and any user reported issues.
+
+### Updates
+
+- Dependency updates
+- Links added to Astro's Theme Directory listing & Astro-specific service on Contra.
+- Added experimental SVG optimization.
+- Updated tsconfig.json for ensuring you don't see incorrect type errors in your IDE.
+
+## v0.11.4 - Oct 29, 2025
 
 This is a monthly update release intended to keep the dependencies up-to-date, addressing any security issues and any user reported issues.
 

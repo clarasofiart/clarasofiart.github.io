@@ -4,7 +4,7 @@ A minimal space-inspired personal blog template, created by Siddhesh Thadeshwar.
 
 ![Space Ahead ✨](/space-ahead-preview.jpeg)
 
-See the [demo](https://djsiddz.github.io/space-ahead) to know more.
+See the [demo](https://djsiddz.github.io/space-ahead) to know more. | View on Astro's Theme Directory [here](https://astro.build/themes/details/space-ahead/).
 
 ## 🆕 Real-like Demo
 
@@ -89,13 +89,13 @@ You'll see the following folders and files:
 
 ### Support Info
 
-- I provide **paid service** for customizing and setup any of my Astro templates for your projects and startups. Contact me on [Contra](https://contra.com/siddhesht) to know more.
-- Please feel free to create issues for any bugs or feature requests on this theme.
+- I provide **paid service** for customizing and setup any of my Astro templates for your projects and startups. Contact me on [Contra](https://contra.com/siddhesht/services) to know more.
+- Please feel free to create issues for any bugs or feature requests for this theme.
 
 ### Credits
 
 - Generated Space Ahead ✨ logo and images for demo blog content using Microsoft Designer.
-- Homepage illustration by <a href="https://icons8.com/illustrations/author/ARh4OKrFtdfC">Pixeltrue Ouch!</a>
+- Homepage illustration by [Pixeltrue Ouch!](https://icons8.com/illustrations/author/ARh4OKrFtdfC)
 - Inspired from these amazing Astro templates - [Dante](https://github.com/JustGoodUI/dante-astro-theme) & [Chiri](https://github.com/the3ash/astro-chiri). Please do check them out.
 
 ## License
